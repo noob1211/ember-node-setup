@@ -1,0 +1,26 @@
+{
+  "name": "MyPersonalProjects2013",
+  "version": "0.1.0",
+  "homepage": "https://github.com/noob1211/myprojects",
+  "authors": [
+    "noob1211 <sabedinia88@gmail.com>"
+  ],
+  "description": "showcasing projects worked on 2013",
+  "main": "index.html",
+  "keywords": [
+    "2013",
+    "projects"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.2.0"
+  }
+}
